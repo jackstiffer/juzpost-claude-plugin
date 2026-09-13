@@ -1,0 +1,25 @@
+{
+  "name": "juzpost",
+  "description": "The official JuzPost plugin: a social media scheduler for Claude with MCP access.",
+  "owner": {
+    "name": "JuzPost",
+    "email": "support@juzpost.com"
+  },
+  "plugins": [
+    {
+      "name": "juzpost",
+      "source": "./",
+      "description": "Schedule and publish posts to YouTube, Instagram, TikTok, X, LinkedIn, Pinterest, Bluesky, Threads and Tumblr from Claude. Free plan to start; AI agent access from $15/month.",
+      "homepage": "https://api.juzpost.com/docs",
+      "license": "MIT",
+      "keywords": [
+        "social-media-scheduler",
+        "mcp",
+        "ai-agent",
+        "content-calendar",
+        "cross-posting"
+      ],
+      "category": "productivity"
+    }
+  ]
+}

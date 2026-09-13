@@ -1,0 +1,33 @@
+{
+  "name": "juzpost",
+  "displayName": "JuzPost",
+  "version": "0.1.0",
+  "description": "Schedule and publish posts to YouTube, Instagram, TikTok, X, LinkedIn, Pinterest, Bluesky, Threads and Tumblr from Claude. Free plan to start; AI agent access from $15/month.",
+  "author": {
+    "name": "JuzPost",
+    "email": "support@juzpost.com",
+    "url": "https://www.juzpost.com"
+  },
+  "homepage": "https://api.juzpost.com/docs",
+  "repository": "https://github.com/jackstiffer/juzpost-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "social-media-scheduler",
+    "social-media",
+    "schedule-posts",
+    "content-calendar",
+    "mcp",
+    "ai-agent",
+    "youtube-shorts",
+    "instagram",
+    "tiktok",
+    "x-twitter",
+    "linkedin",
+    "pinterest",
+    "bluesky",
+    "threads",
+    "tumblr",
+    "cross-posting",
+    "cli"
+  ]
+}
